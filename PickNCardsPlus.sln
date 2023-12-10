@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickNCardsPlus", "PickNCardsPlus\PickNCardsPlus.csproj", "{585E90D4-6F4E-4AE7-9593-EA94BA1311B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{585E90D4-6F4E-4AE7-9593-EA94BA1311B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585E90D4-6F4E-4AE7-9593-EA94BA1311B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585E90D4-6F4E-4AE7-9593-EA94BA1311B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585E90D4-6F4E-4AE7-9593-EA94BA1311B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8862E071-99B4-4D89-9D46-259246D99725}
+	EndGlobalSection
+EndGlobal
